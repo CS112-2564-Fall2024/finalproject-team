@@ -8,7 +8,7 @@ This project is the classic Tic-Tac-Toe game using JavaFX for the graphical user
 - A "Restart" button to reset/start the game.
 - Includes an abstract class (`Game`), a concrete class (`TicTacToeGame`), and a custom exception (`InvalidMoveException`). I used the classes HelloApplicantion and HelleConstructor (both abstract).
 
-UML:![image](https://github.com/user-attachments/assets/56230686-0737-4bda-b627-2fe0161e3d0b)
+UML:![image]![Screenshot 2024-12-11 125412](https://github.com/user-attachments/assets/2e94c774-42b4-4c48-b197-24f890576c0c)
 
 Wireframe: [here](https://docs.google.com/presentation/d/1wu1DK1VYlXzCn6kr89ZM4GKNsPNwgSvWNG5dns-SfFU/edit?usp=sharing).
 
