@@ -3,8 +3,8 @@
 Tic - Tac - Toe Game
 This project is the classic Tic-Tac-Toe game using JavaFX for the graphical user interface (GUI). The game was inspired by a YouTube tutorial(https://www.youtube.com/watch?v=fO4KUCtbmq8&t=249s) and includes win-check logic, reset functionality, and an object-oriented programming structure. This project has concrete classes, abstract classes, and custom exceptions. Simple and interactive gaming experience.
 
-- A functional Tic-Tac-Toe game with a 3x3 grid.
-- Support for player turns and win/tie detection.
+- A regular Tic-Tac-Toe game, 3x3 grid.
+- Player turns and win/tie detection.
 - A "Restart" button to reset/start the game.
 - Includes an abstract class (`Game`), a concrete class (`TicTacToeGame`), and a custom exception (`InvalidMoveException`). I used the classes HelloApplicantion and HelleConstructor (both abstract).
 
